@@ -1,0 +1,8 @@
+Flask
+Flask-Login
+Flask-Principal
+SQLAlchemy
+Werkzeug
+alembic
+psycopg2
+requests
